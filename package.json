@@ -1,0 +1,36 @@
+{
+  "name": "informatixpro-logging",
+  "description": "Node.js Logger for informatix pro projects",
+  "version": "1.0.0",
+  "contributors": [
+    {
+      "name": "Matt Ebersbach",
+      "email": "mebersbach@informatixpro.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/InformatixPro/Logging"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "files": [
+    "lib/",
+    "interfaces/",
+    "index.js",
+    "package.json"
+  ],
+  "engines": {
+    "node": ">= 0.12"
+  },
+  "scripts": {
+  },
+  "maintainers": [
+    {
+      "name": "Matthew Ebersbach",
+      "email": "mebersbach@informatixpro.com"
+    }
+  ]
+}
